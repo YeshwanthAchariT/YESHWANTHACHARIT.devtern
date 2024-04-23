@@ -14,9 +14,10 @@ TASK 3: The Uber Trip Analysis project by Devtern involves analyzing large datas
 ![Screenshot 2024-04-23 193132](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/c0d49c8d-061a-40d0-8967-f8a642e9e1a9)
 ![Screenshot 2024-04-23 193143](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/96280c98-2639-454d-90ce-50af1b3383cc)
 ![Screenshot 2024-04-23 193204](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/7fef404d-b2fd-4f51-a32e-e74a3c1357ad)
-![Screenshot 2024-04-23 193254](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/ed181467-db8d-458d-be18-8839dc5e9c1c)
+
 ![Screenshot 2024-04-20 083927](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/1a29f5e7-f28a-4c5a-9c5c-8eeac6b31622)
 ![Screenshot 2024-04-23 193026](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/0afa33f7-bd66-48e7-b2a5-1f1946546a74)
 ![Screenshot 2024-04-23 193032](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/d4765815-b754-4997-bf80-a2c0ced6c2bf)
 ![Screenshot 2024-04-23 193037](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/15967df6-884a-45ad-b557-581e9f6317bf)
+![Screenshot 2024-04-23 193254](https://github.com/YeshwanthAchariT/YESHWANTHACHARIT.devtern/assets/164770173/ed181467-db8d-458d-be18-8839dc5e9c1c)
 
